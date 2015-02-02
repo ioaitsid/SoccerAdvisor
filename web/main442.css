@@ -1,0 +1,347 @@
+body{
+     background: url("football.jpg");
+     background-size: cover;    
+}
+
+.plaisio{
+  
+    width: 900px;
+    height:100%;
+    margin-left: auto;
+    margin-right: auto;
+    top:0px;
+    
+   
+    background-color: black;
+}
+
+.logo{
+  
+  position: relative;
+
+  height: 173px;
+  background: url("logo.jpg");
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:0px;
+  width:100%
+}
+
+.button_1 {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #fc7f19), color-stop(1, #ff3700) );
+	background:-moz-linear-gradient( center top, #fc7f19 5%, #ff3700 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fc7f19', endColorstr='#ff3700');
+	background-color:#fc7f19;
+	-webkit-border-top-left-radius:42px;
+	-moz-border-radius-topleft:42px;
+	border-top-left-radius:42px;
+	-webkit-border-top-right-radius:42px;
+	-moz-border-radius-topright:42px;
+	border-top-right-radius:42px;
+	-webkit-border-bottom-right-radius:42px;
+	-moz-border-radius-bottomright:42px;
+	border-bottom-right-radius:42px;
+	-webkit-border-bottom-left-radius:42px;
+	-moz-border-radius-bottomleft:42px;
+	border-bottom-left-radius:42px;
+	text-indent:-2.06px;
+	border:8px solid #0a0401;
+	display:inline-block;
+	color:#000000;
+	font-family:Comic Sans MS;
+	font-size:24px;
+	font-weight:bold;
+	font-style:normal;
+	height:93px;
+	line-height:93px;
+	width:119px;
+	text-decoration:none;
+	text-align:center;
+        margin-left:100px;
+        margin-right:auto;
+        margin-top:100px;
+        
+}
+.button_1:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ff3700), color-stop(1, #fc7f19) );
+	background:-moz-linear-gradient( center top, #ff3700 5%, #fc7f19 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff3700', endColorstr='#fc7f19');
+	background-color:#ff3700;
+}
+.button_1:active {
+        position:relative;
+	top:1px;
+}
+.button_2 {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #fc7f19), color-stop(1, #ff3700) );
+	background:-moz-linear-gradient( center top, #fc7f19 5%, #ff3700 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fc7f19', endColorstr='#ff3700');
+	background-color:#fc7f19;
+	-webkit-border-top-left-radius:42px;
+	-moz-border-radius-topleft:42px;
+	border-top-left-radius:42px;
+	-webkit-border-top-right-radius:42px;
+	-moz-border-radius-topright:42px;
+	border-top-right-radius:42px;
+	-webkit-border-bottom-right-radius:42px;
+	-moz-border-radius-bottomright:42px;
+	border-bottom-right-radius:42px;
+	-webkit-border-bottom-left-radius:42px;
+	-moz-border-radius-bottomleft:42px;
+	border-bottom-left-radius:42px;
+	text-indent:-2.06px;
+	border:8px solid #0a0401;
+	display:inline-block;
+	color:#000000;
+	font-family:Comic Sans MS;
+	font-size:24px;
+	font-weight:bold;
+	font-style:normal;
+	height:93px;
+	line-height:93px;
+	width:119px;
+	text-decoration:none;
+	text-align:center;
+        margin-left: 50px;
+        
+        
+}
+.button_2:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ff3700), color-stop(1, #fc7f19) );
+	background:-moz-linear-gradient( center top, #ff3700 5%, #fc7f19 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff3700', endColorstr='#fc7f19');
+	background-color:#ff3700;
+}.button_2:active {
+        position:relative;
+	top:1px;
+}
+
+.button_3 {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #fc7f19), color-stop(1, #ff3700) );
+	background:-moz-linear-gradient( center top, #fc7f19 5%, #ff3700 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fc7f19', endColorstr='#ff3700');
+	background-color:#fc7f19;
+	-webkit-border-top-left-radius:42px;
+	-moz-border-radius-topleft:42px;
+	border-top-left-radius:42px;
+	-webkit-border-top-right-radius:42px;
+	-moz-border-radius-topright:42px;
+	border-top-right-radius:42px;
+	-webkit-border-bottom-right-radius:42px;
+	-moz-border-radius-bottomright:42px;
+	border-bottom-right-radius:42px;
+	-webkit-border-bottom-left-radius:42px;
+	-moz-border-radius-bottomleft:42px;
+	border-bottom-left-radius:42px;
+	text-indent:-2.06px;
+	border:8px solid #0a0401;
+	display:inline-block;
+	color:#000000;
+	font-family:Comic Sans MS;
+	font-size:24px;
+	font-weight:bold;
+	font-style:normal;
+	height:93px;
+	line-height:93px;
+	width:119px;
+	text-decoration:none;
+	text-align:center;
+        margin-left: 50px;
+        
+}
+.button_3:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ff3700), color-stop(1, #fc7f19) );
+	background:-moz-linear-gradient( center top, #ff3700 5%, #fc7f19 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff3700', endColorstr='#fc7f19');
+	background-color:#ff3700;
+}.button_3:active {
+        position:relative;
+	top:1px;
+}
+
+
+.button_4 {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #fc7f19), color-stop(1, #ff3700) );
+	background:-moz-linear-gradient( center top, #fc7f19 5%, #ff3700 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fc7f19', endColorstr='#ff3700');
+	background-color:#fc7f19;
+	-webkit-border-top-left-radius:42px;
+	-moz-border-radius-topleft:42px;
+	border-top-left-radius:42px;
+	-webkit-border-top-right-radius:42px;
+	-moz-border-radius-topright:42px;
+	border-top-right-radius:42px;
+	-webkit-border-bottom-right-radius:42px;
+	-moz-border-radius-bottomright:42px;
+	border-bottom-right-radius:42px;
+	-webkit-border-bottom-left-radius:42px;
+	-moz-border-radius-bottomleft:42px;
+	border-bottom-left-radius:42px;
+	text-indent:-2.06px;
+	border:8px solid #0a0401;
+	display:inline-block;
+	color:#000000;
+	font-family:Comic Sans MS;
+	font-size:24px;
+	font-weight:bold;
+	font-style:normal;
+	height:93px;
+	line-height:93px;
+	width:119px;
+	text-decoration:none;
+	text-align:center;
+        margin-left: 50px;
+        
+}
+.button_4:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ff3700), color-stop(1, #fc7f19) );
+	background:-moz-linear-gradient( center top, #ff3700 5%, #fc7f19 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff3700', endColorstr='#fc7f19');
+	background-color:#ff3700;
+}.button_4:active {
+        position:relative;
+	top:1px;
+}
+
+.formation{
+       potition: absolute;
+       height:700px;
+       background: url("442.png");
+       margin-left:auto;
+       margin-right:auto;
+       margin-top: 100px;
+       width:100%
+}
+
+.str{    
+    position:relative;
+    font-family: "Comic Sans", cursive, sans-serif;
+
+    bottom: 15%;
+    font-size: 20px;
+    color:#f0ff00;
+    left: 55%;
+    right: auto;
+     
+}
+
+.gk{    
+    position:relative;
+    font-family: "Comic Sans", cursive, sans-serif;
+
+    top: 92%;
+    font-size: 20px;
+    color:#f0ff00;
+    left: 45%;
+    right: auto;
+     
+}
+
+.dcl{    
+    position:relative;
+    font-family: "Comic Sans", cursive, sans-serif;
+
+    top: 69%;
+    font-size: 20px;
+    color:#f0ff00;
+    left: 32%;
+    right: auto;
+     
+}
+
+.dcr{    
+    position:relative;
+    font-family: "Comic Sans", cursive, sans-serif;
+
+    top: 74%;
+    font-size: 20px;
+    color:#f0ff00;
+    left: 52%;
+    right: auto;
+     
+}
+
+.dr{    
+    position:relative;
+    font-family: "Comic Sans", cursive, sans-serif;
+
+    top: 59%;
+    font-size: 20px;
+    color:#f0ff00;
+    left: 77%;
+    right: auto;
+     
+}
+
+.dl{    
+    position:relative;
+    font-family: "Comic Sans", cursive, sans-serif;
+
+    top: 56%;
+    font-size: 20px;
+    color:#f0ff00;
+    left: 12%;
+    right: auto;
+     
+}
+
+.mcl{    
+    position:relative;
+    font-family: "Comic Sans", cursive, sans-serif;
+
+    top: 27%;
+    font-size: 20px;
+    color:#f0ff00;
+    left: 29%;
+    right: auto;
+     
+}
+
+.mcr{    
+    position:relative;
+    font-family: "Comic Sans", cursive, sans-serif;
+
+    top: 32%;
+    font-size: 20px;
+    color:#f0ff00;
+    left: 55%;
+    right: auto;
+     
+}
+
+.stl{    
+    position:relative;
+    font-family: "Comic Sans", cursive, sans-serif;
+
+    bottom:20%;
+    font-size: 20px;
+    color:#f0ff00;
+    left: 39%;
+    right: auto;
+     
+}
+
+.amr{    
+    position:relative;
+    font-family: "Comic Sans", cursive, sans-serif;
+
+    top: 14%;
+    font-size: 20px;
+    color:#f0ff00;
+    left: 69%;
+    right: auto;
+     
+}
+
+.aml{    
+    position:relative;
+    font-family: "Comic Sans", cursive, sans-serif;
+
+    top: 8%;
+    font-size: 20px;
+    color:#f0ff00;
+    left: 13%;
+    right: auto;
+     
+}
+

@@ -1,0 +1,296 @@
+body{
+     background: url("football.jpg");
+     background-size: cover;;     
+}
+
+.plaisio{
+  
+    width: 900px;
+    height:120%;
+    margin-left: auto;
+    margin-right: auto;
+    top:0px;
+    
+   
+    background-color: black;
+}
+
+.logo{
+  
+  position: relative;
+
+  height: 173px;
+  background: url("logo.jpg");
+  margin-left:auto;
+  margin-right:auto;
+  margin-top:0px;
+  width:100%
+}
+
+.button_1 {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #fc7f19), color-stop(1, #ff3700) );
+	background:-moz-linear-gradient( center top, #fc7f19 5%, #ff3700 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fc7f19', endColorstr='#ff3700');
+	background-color:#fc7f19;
+	-webkit-border-top-left-radius:42px;
+	-moz-border-radius-topleft:42px;
+	border-top-left-radius:42px;
+	-webkit-border-top-right-radius:42px;
+	-moz-border-radius-topright:42px;
+	border-top-right-radius:42px;
+	-webkit-border-bottom-right-radius:42px;
+	-moz-border-radius-bottomright:42px;
+	border-bottom-right-radius:42px;
+	-webkit-border-bottom-left-radius:42px;
+	-moz-border-radius-bottomleft:42px;
+	border-bottom-left-radius:42px;
+	text-indent:-2.06px;
+	border:8px solid #0a0401;
+	display:inline-block;
+	color:#000000;
+	font-family:Comic Sans MS;
+	font-size:24px;
+	font-weight:bold;
+	font-style:normal;
+	height:93px;
+	line-height:93px;
+	width:119px;
+	text-decoration:none;
+	text-align:center;
+        margin-left:100px;
+        margin-right:auto;
+        margin-top:100px;
+        
+}
+.button_1:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ff3700), color-stop(1, #fc7f19) );
+	background:-moz-linear-gradient( center top, #ff3700 5%, #fc7f19 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff3700', endColorstr='#fc7f19');
+	background-color:#ff3700;
+}.button_1:active {
+        position:relative;
+	top:1px;
+}
+.button_2 {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #fc7f19), color-stop(1, #ff3700) );
+	background:-moz-linear-gradient( center top, #fc7f19 5%, #ff3700 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fc7f19', endColorstr='#ff3700');
+	background-color:#fc7f19;
+	-webkit-border-top-left-radius:42px;
+	-moz-border-radius-topleft:42px;
+	border-top-left-radius:42px;
+	-webkit-border-top-right-radius:42px;
+	-moz-border-radius-topright:42px;
+	border-top-right-radius:42px;
+	-webkit-border-bottom-right-radius:42px;
+	-moz-border-radius-bottomright:42px;
+	border-bottom-right-radius:42px;
+	-webkit-border-bottom-left-radius:42px;
+	-moz-border-radius-bottomleft:42px;
+	border-bottom-left-radius:42px;
+	text-indent:-2.06px;
+	border:8px solid #0a0401;
+	display:inline-block;
+	color:#000000;
+	font-family:Comic Sans MS;
+	font-size:24px;
+	font-weight:bold;
+	font-style:normal;
+	height:93px;
+	line-height:93px;
+	width:119px;
+	text-decoration:none;
+	text-align:center;
+        margin-left: 50px;
+        
+        
+}
+.button_2:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ff3700), color-stop(1, #fc7f19) );
+	background:-moz-linear-gradient( center top, #ff3700 5%, #fc7f19 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff3700', endColorstr='#fc7f19');
+	background-color:#ff3700;
+}.button_2:active {
+        position:relative;
+	top:1px;
+}
+
+.button_3 {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #fc7f19), color-stop(1, #ff3700) );
+	background:-moz-linear-gradient( center top, #fc7f19 5%, #ff3700 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fc7f19', endColorstr='#ff3700');
+	background-color:#fc7f19;
+	-webkit-border-top-left-radius:42px;
+	-moz-border-radius-topleft:42px;
+	border-top-left-radius:42px;
+	-webkit-border-top-right-radius:42px;
+	-moz-border-radius-topright:42px;
+	border-top-right-radius:42px;
+	-webkit-border-bottom-right-radius:42px;
+	-moz-border-radius-bottomright:42px;
+	border-bottom-right-radius:42px;
+	-webkit-border-bottom-left-radius:42px;
+	-moz-border-radius-bottomleft:42px;
+	border-bottom-left-radius:42px;
+	text-indent:-2.06px;
+	border:8px solid #0a0401;
+	display:inline-block;
+	color:#000000;
+	font-family:Comic Sans MS;
+	font-size:24px;
+	font-weight:bold;
+	font-style:normal;
+	height:93px;
+	line-height:93px;
+	width:119px;
+	text-decoration:none;
+	text-align:center;
+        margin-left: 50px;
+        
+}
+.button_3:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ff3700), color-stop(1, #fc7f19) );
+	background:-moz-linear-gradient( center top, #ff3700 5%, #fc7f19 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff3700', endColorstr='#fc7f19');
+	background-color:#ff3700;
+}.button_3:active {
+        position:relative;
+	top:1px;
+}
+
+
+.button_4 {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #fc7f19), color-stop(1, #ff3700) );
+	background:-moz-linear-gradient( center top, #fc7f19 5%, #ff3700 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#fc7f19', endColorstr='#ff3700');
+	background-color:#fc7f19;
+	-webkit-border-top-left-radius:42px;
+	-moz-border-radius-topleft:42px;
+	border-top-left-radius:42px;
+	-webkit-border-top-right-radius:42px;
+	-moz-border-radius-topright:42px;
+	border-top-right-radius:42px;
+	-webkit-border-bottom-right-radius:42px;
+	-moz-border-radius-bottomright:42px;
+	border-bottom-right-radius:42px;
+	-webkit-border-bottom-left-radius:42px;
+	-moz-border-radius-bottomleft:42px;
+	border-bottom-left-radius:42px;
+	text-indent:-2.06px;
+	border:8px solid #0a0401;
+	display:inline-block;
+	color:#000000;
+	font-family:Comic Sans MS;
+	font-size:24px;
+	font-weight:bold;
+	font-style:normal;
+	height:93px;
+	line-height:93px;
+	width:119px;
+	text-decoration:none;
+	text-align:center;
+        margin-left: 50px;
+        
+}
+.button_4:hover {
+	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #ff3700), color-stop(1, #fc7f19) );
+	background:-moz-linear-gradient( center top, #ff3700 5%, #fc7f19 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff3700', endColorstr='#fc7f19');
+	background-color:#ff3700;
+}.button_4:active {
+        position:relative;
+	top:1px;
+}
+
+
+.dark-matter {
+    margin-top:50px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 500px;
+    background: black;
+    padding: 20px 30px 20px 30px;
+    font: 13px "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: orange;
+    text-shadow: 1px 1px 1px #444;
+    border: none;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+}
+.dark-matter h1 {
+    padding: 0px 0px 10px 40px;
+    display: block;
+    border-bottom: 1px solid #444;
+    margin: -10px -30px 30px -30px;
+}
+.dark-matter h1>span {
+    display: block;
+    font-size: 11px;
+}
+.dark-matter label {
+    display: block;
+    margin: 0px 0px 5px;
+}
+.dark-matter label>span {
+    float: left;
+    width: 20%;
+    text-align: right;
+    padding-right: 10px;
+    margin-top: 10px;
+    font-weight: bold;
+}
+.dark-matter input[type="text"], .dark-matter input[type="email"], .dark-matter textarea, .dark-matter select {
+    border: none;
+    color: #525252;
+    height: 25px;
+    line-height:15px;
+    margin-bottom: 16px;
+    margin-right: 6px;
+    margin-top: 2px;
+    outline: 0 none;
+    padding: 5px 0px 5px 5px;
+    width: 70%;
+    border-radius: 2px;
+    -webkit-border-radius: 2px;
+    -moz-border-radius: 2px;
+    -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+    background: #DFDFDF;
+}
+.dark-matter select {
+    background: #DFDFDF url('down-arrow.png') no-repeat right;
+    background: #DFDFDF url('down-arrow.png') no-repeat right;
+    appearance:none;
+    -webkit-appearance:none;
+    -moz-appearance: none;
+    text-indent: 0.01px;
+    text-overflow: '';
+    width: 70%;
+    height: 35px;
+    color: #525252;
+    line-height: 25px;
+}
+.dark-matter textarea{
+    height:100px;
+    padding: 5px 0px 0px 5px;
+    width: 70%;
+}
+.dark-matter .button {
+    background: orange;
+    border: none;
+    padding: 10px 25px 10px 25px;
+    color: black;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    text-shadow: 1px 1px 1px #FFE477;
+    font-weight: bold;
+    box-shadow: 1px 1px 1px #3D3D3D;
+    -webkit-box-shadow:1px 1px 1px #3D3D3D;
+    -moz-box-shadow:1px 1px 1px #3D3D3D;
+}
+
+.dark-matter .button:hover {
+    color: black;
+    background-color: orangered;
+}
